@@ -1,6 +1,6 @@
 
 public class Ex04 {
-    public static void printMovieFrontNbr(int nbr){
+    public static void printMovieFromNbr(int nbr){
         switch (nbr) {
             case 3:
                 System.out.println("The Tree Brothers");
